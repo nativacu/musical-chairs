@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419721780471",
+    "project_id": "musical-chairs-85f2f",
+    "storage_bucket": "musical-chairs-85f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419721780471:android:fcffab91be8646a53987f2",
+        "android_client_info": {
+          "package_name": "com.musicalchairs.musical_chairs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjFX8PkxmaN2czvuPT33Fm5vPJip7gkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
