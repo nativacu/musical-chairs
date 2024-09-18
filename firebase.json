@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "musical-chairs-85f2f",
+          "appId": "1:419721780471:android:fcffab91be8646a53987f2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "musical-chairs-85f2f",
+          "appId": "1:419721780471:ios:4268164f9a980b333987f2",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "musical-chairs-85f2f",
+          "configurations": {
+            "android": "1:419721780471:android:fcffab91be8646a53987f2",
+            "ios": "1:419721780471:ios:4268164f9a980b333987f2",
+            "web": "1:419721780471:web:1554d1cd4bb4d3653987f2"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
