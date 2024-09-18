@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDqxpIbB06QCIrEIKlljNyF93-habHv3G4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419721780471</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.musicalchairs.musicalChairs</string>
+	<key>PROJECT_ID</key>
+	<string>musical-chairs-85f2f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>musical-chairs-85f2f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419721780471:ios:4268164f9a980b333987f2</string>
+</dict>
+</plist>
